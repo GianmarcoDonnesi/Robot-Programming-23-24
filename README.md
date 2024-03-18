@@ -2,8 +2,8 @@
 This repository contains all the code developed during the course of Robot Programming academic year 2023/2024. It includes both the exercises completed as part of the coursework and the final project that encapsulates the concepts and skills learned throughout the course.
 
 ## Repository Structure
-- **Exercises**: The `exercises` directory contains individual folders for each exercise assigned during the course. These exercises are designed to reinforce the theoretical concepts discussed in lectures with practical application.
-- **Final Project**: The `final_project` directory hosts the code for the comprehensive project undertaken at the end of the course. This project integrates various aspects of robot programming, from basic control to more advanced topics such as perception and planning.
+- **Exercises**: The `Exercises` directory contains individual folders for each exercise assigned during the course. These exercises are designed to reinforce the theoretical concepts discussed in lectures with practical application.
+- **Final Project**: The `Final_Project` directory hosts the code for the comprehensive project undertaken at the end of the course. This project integrates various aspects of robot programming, from basic control to more advanced topics such as perception and planning.
 
 
 ## License
