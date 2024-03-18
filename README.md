@@ -7,4 +7,4 @@ This repository contains all the code developed during the course of Robot Progr
 
 
 ## License
-Unless otherwise stated, the code in this repository is licensed under [MIT License](LICENSE.md). This permits reuse and distribution according to the terms of the license.
+Unless otherwise stated, the code in this repository is licensed under [GPL-3.0 license](LICENSE). This permits reuse and distribution according to the terms of the license.
