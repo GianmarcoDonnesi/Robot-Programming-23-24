@@ -21,7 +21,6 @@ include_directories(${EIGEN3_INCLUDE_DIR} src/)
 # add project source code
 add_subdirectory(src)
 
-#do the same for executables
 add_subdirectory(executables)
 
 add_executable(tutto
